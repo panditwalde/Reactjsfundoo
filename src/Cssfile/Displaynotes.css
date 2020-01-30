@@ -1,0 +1,10 @@
+.displaynotemain{
+    display: flex;
+    /* padding: 5px; */
+    justify-content: center;
+   width: 800px;
+    /* padding-top: 106px;     */
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}

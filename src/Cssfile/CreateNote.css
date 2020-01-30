@@ -1,0 +1,12 @@
+.createnote{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-top: 106px;
+    align-content: center;
+    flex-direction: column;
+    
+    
+   
+
+}
